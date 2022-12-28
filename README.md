@@ -42,6 +42,8 @@ admin.site.register(BankAccountMember,BankAccountAdmin)
 Include your code here
 
 ## OUTPUT
+![image](https://user-images.githubusercontent.com/118679883/209852412-11284460-6616-4929-bbfc-828841c02374.png)
+
 
 Include the screenshot of your admin page.
 
